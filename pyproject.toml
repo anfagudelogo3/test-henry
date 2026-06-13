@@ -1,0 +1,13 @@
+[project]
+name = "test-henry"
+version = "0.1.0"
+description = "Demo de pipeline de ML con Airflow para clase de ingeniería de datos"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "apache-airflow==2.9.3",
+    "pandas",
+    "scikit-learn",
+    "openpyxl",
+]

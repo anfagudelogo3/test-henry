@@ -1,0 +1,2 @@
+# No es un archivo de DAG — es lógica compartida importada por churn_pipeline_dag.py
+pipeline.py
